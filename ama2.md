@@ -21,7 +21,7 @@ CSS specificity decides which CSS rule will be applied when multiple CSS rules t
 `git log` is used to list and view the commit history.
 
 
-## What is the difference between Relative and Absolute in CSS Positions?
+## 5. What is the difference between Relative and Absolute in CSS Positions?
 
 `position: relative` keeps an element in the normal document flow and moves it relative to its original position.
 
