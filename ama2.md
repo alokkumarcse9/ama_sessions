@@ -21,9 +21,12 @@ CSS specificity decides which CSS rule will be applied when multiple CSS rules t
 `git log` is used to list and view the commit history.
 
 
-## 5. What is the difference between Relative and Absolute Paths in CSS?
+## What is the difference between Relative and Absolute in CSS Positions?
 
-A relative path depends on the current file location, while an absolute path gives the complete location of a file.
+`position: relative` keeps an element in the normal document flow and moves it relative to its original position.
+
+`position: absolute` removes an element from the normal document flow and places it at an exact position relative to its nearest positioned parent.
+
 
 
 ## 6. What is the difference between HTML and CSS?
