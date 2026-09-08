@@ -1,5 +1,3 @@
-# Alok Kumar - AMA Questions & Simple Definitions
-
 ## 1. What is `git reset`?
 
 `git reset` is used to **move the current branch to an earlier commit**.
